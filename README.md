@@ -1,4 +1,4 @@
-## Regression project to implement Logistic Regression on streaming app data.
+## Logistic Regression on streaming app data.
 
 **Dataset:**  data provides information about a video streaming service company, where they want to predict if the customer will churn or not. The CSV consists of around 2000 rows and 16 columns.
 
